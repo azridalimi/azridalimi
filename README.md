@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Muhammad Azri 👋</h1>
+<h1 align="center">Hi, I'm MUHAMMAD AZRI 👋</h1>
 
 <h3 align="center">
   Computer Science Student @ UTM | Aspiring Data Engineer |
