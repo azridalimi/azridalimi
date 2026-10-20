@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Muhammad Azri 👋</h1>
+<h1 align="center">Hi, I'm MUHAMMAD AZRI BIN AHMAD DALIMI 👋</h1>
 
 <h3 align="center">
   Computer Science Student @ UTM | Aspiring Data Engineer
@@ -34,7 +34,6 @@ interested in Data Engineering, Data Analytics, and technology innovation.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
