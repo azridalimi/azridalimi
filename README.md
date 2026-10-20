@@ -1,36 +1,94 @@
-# 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/azridalimi"><img src="https://img.shields.io/badge/GitHub-azridalimi-181717?style=flat&logo=github" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/azridalimi"><img src="https://img.shields.io/badge/LinkedIn-azridalimi-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:azridalimi@email.com"><img src="https://img.shields.io/badge/Gmail-azridalimi-D14836?style=flat&logo=gmail" alt="Gmail"></a>
+<h1 align="center">Hi, I'm Muhammad Azri 👋</h1>
+
+<h3 align="center">
+  Computer Science Student @ UTM | Aspiring Data Engineer |
+  STEM Innovator
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-azri-224b6241a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/azridalimi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-# Muhammad Azri | Computer Science Student & Aspiring Data Engineer 🛠️
+---
 
-Passionate Computer Science Student at **Universiti Teknologi Malaysia (UTM)**[cite: 2], specializing in **Data Engineering** and **STEM Innovation**[cite: 2]. Co-Creator of **AEROVISION SMART FARMING**[cite: 2]. Driven by a desire to build scalable data pipelines, transform raw data into actionable insights, and solve real-world problems through technology.
+## 👨‍💻 About Me
 
-Explore my projects below, and let's collaborate on something impactful! 😊
+I'm a Computer Science student at Universiti Teknologi Malaysia (UTM), passionate about technology, data, and innovation.
+
+My interests include Data Engineering, Data Analysis, data visualization, and building technology-driven solutions to real-world problems.
+
+- 🎓 Computer Science student at UTM
+- 📊 Exploring data analytics and visualization
+- ⚙️ Aspiring Data Engineer
+- 🌱 Co-creator of AEROVISION SMART FARMING
+- 🏆 STEM innovation competition award winner
+- 🎓 MNRB Scholarship Fund recipient
 
 ---
 
-## 🚀 Current Projects & Focus ⚡
+## 🚀 Featured Projects
 
-* 📊 **Data Analysis & Visualization**: Developing repositories for deep-data analytics and interactive dashboards[cite: 2].
-* 🌾 **AEROVISION SMART FARMING**: Innovating smart agricultural systems using IoT and data-driven technologies[cite: 2].
-* 🛠️ **Data Engineering Pipelines**: Learning and implementing modern data stack tools (ETL, SQL, Python, Big Data frameworks).
+### 🌱 AEROVISION SMART FARMING
+
+An innovative smart agriculture project combining technology and agricultural applications.
+
+- Co-created a smart farming solution
+- Recognized at the World Youth STEM Invention & Innovation 2026
+- Received official copyright notification from MyIPO
+
+### 📊 Data Analysis & Visualization
+
+Exploring data-driven insights through analytical projects and interactive dashboards.
+
+- Data exploration and analysis
+- Data visualization
+- Dashboard development
+- Transforming raw data into meaningful insights
+
+### 🌉 3D Bridge Design Innovation
+
+A mechanical bridge design project integrating 3D modelling, prototyping, and automation.
+
+- 3D design and assembly using SolidWorks
+- Layout planning using AutoCAD
+- Physical prototyping through 3D printing
+- Automated mechanism using ESP32 and a stepper motor
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🏆 Achievements
 
-* **Languages:** Python, SQL, C++
-* **Data & Analytics:** Pandas, NumPy, Jupyter Notebooks[cite: 2], Matplotlib, Seaborn
-* **Tools & Platforms:** Git, GitHub[cite: 2], VS Code
+- 🥇 Top 5, First Place & Gold Award — World Youth STEM Invention & Innovation 2026
+- 🏅 National First Place — 3D Bridge Design Competition
+- 🎓 MNRB Scholarship Fund Recipient
+- ©️ AEROVISION SMART FARMING — MyIPO copyright notification
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Current Focus
 
-![Azri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azridalimi&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azridalimi&layout=compact&theme=dark)
+- Strengthening my foundations in Data Engineering
+- Developing data analysis and visualization projects
+- Learning to build reliable and scalable data pipelines
+- Expanding my portfolio through practical projects
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning opportunities, collaboration, and connecting with people who share an interest in data, technology, and innovation.
+
+📫 Connect with me on
+[LinkedIn](https://www.linkedin.com/in/muhammad-azri-224b6241a/)
+
+---
+
+<p align="center">
+  <i>Turning data into insights and ideas into innovation.</i>
+</p>
