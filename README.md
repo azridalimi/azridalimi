@@ -1,17 +1,16 @@
 
-<h1 align="center">Hi, I'm MUHAMMAD AZRI 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Azri 👋</h1>
 
 <h3 align="center">
-  Computer Science Student @ UTM | Aspiring Data Engineer |
-  STEM Innovator
+  Computer Science Student @ UTM | Aspiring Data Engineer
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-azri-224b6241a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/azridalimi">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -19,16 +18,39 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at Universiti Teknologi Malaysia (UTM), passionate about technology, data, and innovation.
-
-My interests include Data Engineering, Data Analysis, data visualization, and building technology-driven solutions to real-world problems.
+I'm a Computer Science student at Universiti Teknologi Malaysia (UTM),
+interested in Data Engineering, Data Analytics, and technology innovation.
 
 - 🎓 Computer Science student at UTM
-- 📊 Exploring data analytics and visualization
+- 📊 Interested in data analytics and visualization
 - ⚙️ Aspiring Data Engineer
 - 🌱 Co-creator of AEROVISION SMART FARMING
-- 🏆 STEM innovation competition award winner
-- 🎓 MNRB Scholarship Fund recipient
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Technologies I've Used
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+### 📚 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### 🎯 Future Learning Goals
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
 ---
 
@@ -36,85 +58,56 @@ My interests include Data Engineering, Data Analysis, data visualization, and bu
 
 ### 🌱 AEROVISION SMART FARMING
 
-An innovative smart agriculture project combining technology and agricultural applications.
+A smart farming innovation project focused on applying technology
+to agricultural challenges.
 
-- Co-created a smart farming solution
-- Recognized at the World Youth STEM Invention & Innovation 2026
-- Received official copyright notification from MyIPO
+**Focus:** Smart agriculture and technology innovation.
 
 ### 📊 Data Analysis & Visualization
 
-Exploring data-driven insights through analytical projects and interactive dashboards.
+Exploring data analysis and visualization through practical projects
+and interactive dashboards.
 
-- Data exploration and analysis
-- Data visualization
-- Dashboard development
-- Transforming raw data into meaningful insights
-
-### 🌉 3D Bridge Design Innovation
-
-A mechanical bridge design project integrating 3D modelling, prototyping, and automation.
-
-- 3D design and assembly using SolidWorks
-- Layout planning using AutoCAD
-- Physical prototyping through 3D printing
-- Automated mechanism using ESP32 and a stepper motor
+**Focus:** Data exploration, charts, and dashboards.
 
 ---
 
-## 🏆 Achievements
+## 📚 Currently Learning
 
-- 🥇 Top 5, First Place & Gold Award — World Youth STEM Invention & Innovation 2026
-- 🏅 National First Place — 3D Bridge Design Competition
-- 🎓 MNRB Scholarship Fund Recipient
-- ©️ AEROVISION SMART FARMING — MyIPO copyright notification
-
----
-
-## 🎯 Current Focus
-
-- Strengthening my foundations in Data Engineering
-- Developing data analysis and visualization projects
-- Learning to build reliable and scalable data pipelines
-- Expanding my portfolio through practical projects
+- Strengthening data analysis fundamentals
+- Exploring data processing and pipeline concepts
+- Improving data visualization skills
+- Developing practical projects for my portfolio
 
 ---
 
+## 📈 GitHub Statistics
 
-## 🛠️ Tech Stack & Tools
-
-### 💻 Technologies I've Used
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=azridalimi&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azridalimi&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
-### 📚 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
-
-### 🎯 Future Learning Goals
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-
+---
 
 ## 🤝 Let's Connect
 
-I'm always open to learning opportunities, collaboration, and connecting with people who share an interest in data, technology, and innovation.
-
-📫 Connect with me on
-[LinkedIn](https://www.linkedin.com/in/muhammad-azri-224b6241a/)
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-azri-224b6241a/">
+    LinkedIn
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/azridalimi">
+    GitHub
+  </a>
+</p>
 
 <p align="center">
-  <i>Turning data into insights and ideas into innovation.</i>
+  <i>Learning continuously. Building practically. Growing through data.</i>
 </p>
