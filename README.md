@@ -1,16 +1,19 @@
 
-<h1 align="center">Hi, I'm MUHAMMAD AZRI BIN AHMAD DALIMI 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Azri 👋</h1>
 
 <h3 align="center">
-  Computer Science Student @ UTM | Aspiring Data Engineer
+  Computer Science Student | Aspiring Data Engineer & Data Analyst
 </h3>
 
 <p align="center">
+  <a href="https://azridalimi.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0b1120?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/muhammad-azri-224b6241a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/azridalimi">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -18,95 +21,112 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at Universiti Teknologi Malaysia (UTM),
-interested in Data Engineering, Data Analytics, and technology innovation.
+I'm a Computer Science student at **Universiti Teknologi Malaysia (UTM)** with an interest in data engineering, data analytics, software development, and technology-driven innovation.
 
-- 🎓 Computer Science student at UTM
-- 📊 Interested in data analytics and visualization
-- ⚙️ Aspiring Data Engineer
-- 🌱 Co-creator of AEROVISION SMART FARMING
+I'm continuously developing my technical skills through academic projects, hands-on practice, and independent learning.
+
+- 🎓 Studying Computer Science at UTM
+- 📊 Exploring Data Analytics and Data Visualization
+- 🐍 Developing my Python programming skills
+- 📈 Learning Power BI and dashboard development
+- 🌱 Exploring Green Technology and Smart Agriculture
+- 💡 Interested in solving real-world problems through technology
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills & Technologies
 
-### 💻 Technologies I've Used
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-
-### 📚 Currently Learning
+### Programming & Development
 
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Used-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub">
 </p>
 
-### 🎯 Future Learning Goals
+### Data & Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-Used-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
+  <img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
 </p>
+
+### Areas of Interest
+
+- Data Engineering
+- Data Analytics
+- Data Visualization
+- Dashboard Development
+- Artificial Intelligence
+- Internet of Things (IoT)
+- Green Technology & Smart Agriculture
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌱 AEROVISION SMART FARMING
+### 🌿 HazeShield Indoor Farm
 
-A smart farming innovation project focused on applying technology
-to agricultural challenges.
+An ongoing smart agriculture innovation project exploring IoT-based air quality monitoring and controlled growing environments.
 
-**Focus:** Smart agriculture and technology innovation.
+**Focus areas:** ESP32, particulate matter monitoring, environmental sensors, automated fan control, and energy monitoring.
 
-### 📊 Data Analysis & Visualization
+[Visit my GitHub](https://github.com/azridalimi)
 
-Exploring data analysis and visualization through practical projects
-and interactive dashboards.
+### 🌐 Personal Portfolio Website
 
-**Focus:** Data exploration, charts, and dashboards.
+A personal website showcasing my academic background, skills, interests, and projects.
 
----
+**Technologies:** HTML, CSS, responsive web design, and GitHub Pages.
 
-## 📚 Currently Learning
+[Visit Portfolio](https://azridalimi.github.io/)
 
-- Strengthening data analysis fundamentals
-- Exploring data processing and pipeline concepts
-- Improving data visualization skills
-- Developing practical projects for my portfolio
+### 📊 Data Analytics & Dashboard Practice
 
----
+Hands-on learning in data visualization, dashboard design, and presenting information in a clear and structured format.
 
-## 📈 GitHub Statistics
+**Focus areas:** Microsoft Excel, Power BI, and data-driven problem-solving.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=azridalimi&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azridalimi&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
+[Explore my repositories](https://github.com/azridalimi?tab=repositories)
 
 ---
 
-## 🤝 Let's Connect
+## 🎓 Education & Recognition
 
-<p align="center">
+- **Universiti Teknologi Malaysia (UTM)** — Computer Science
+- **MNRB Holdings Scholarship** — Scholarship recipient
+
+---
+
+## 📈 My Learning Journey
+
+I'm building my foundation in programming, analytics, and data-related technologies, with the long-term goal of developing practical solutions and contributing to technology projects.
+
+I believe in learning by doing, documenting progress, and continuously improving through experimentation and collaboration.
+
+---
+
+## 🤝 Connect With Me
+
+<p>
   <a href="https://www.linkedin.com/in/muhammad-azri-224b6241a/">
     LinkedIn
   </a>
-  &nbsp; • &nbsp;
+  |
+  <a href="https://azridalimi.github.io/">
+    Portfolio
+  </a>
+  |
   <a href="https://github.com/azridalimi">
     GitHub
   </a>
+  |
+  <a href="https://www.tiktok.com/@azri.tch">
+    TikTok
+  </a>
 </p>
 
+---
+
 <p align="center">
-  <i>Learning continuously. Building practically. Growing through data.</i>
+  <i>Learning today. Building tomorrow. Creating impact through technology.</i>
 </p>
